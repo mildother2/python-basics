@@ -1,0 +1,9 @@
+matplotlib
+pandas
+# patience and alot of it
+polars
+numpy
+# maybe some focus and detemination as well
+python3.9 =>
+dask
+graphiz
